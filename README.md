@@ -1,5 +1,4 @@
-![XMEN](http://img4.wikia.nocookie.net/__cb20140116014001/cartoonfatness/images/f/ff/X-men-logo.png)
-
+[![XMEN](http://img4.wikia.nocookie.net/__cb20140116014001/cartoonfatness/images/f/ff/X-men-logo.png)]("XMEN")
 
 [![MEAN.JS Logo](http://meanjs.org/img/logo-small.png)](http://meanjs.org/)
 
